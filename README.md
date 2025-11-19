@@ -272,10 +272,4 @@ This dashboard was created as part of a business analytics project to demonstrat
 
 ---
 
-## ⭐ Show Your Support
-
-Give a ⭐️ if this project helped you learn Tableau dashboard development!
-
----
-
 **Last Updated**: November 2025
