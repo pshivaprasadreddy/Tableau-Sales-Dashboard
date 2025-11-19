@@ -251,7 +251,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 **P. Shiva Prasad Reddy**
 
 - GitHub: [@pshivaprasadreddy](https://github.com/pshivaprasadreddy)
-- LinkedIn: [Add your LinkedIn profile]
+- LinkedIn: [P. Shiva Prasad Reddy](https://www.linkedin.com/in/patlolla-shiva-prasad-reddy-2709a4325/)
 
 ---
 
